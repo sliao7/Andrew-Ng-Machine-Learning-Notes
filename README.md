@@ -1,7 +1,6 @@
 # Andrew-Ng-Machine-Learning-Notes
 The offical notes of Andrew Ng Machine Learning in Stanford University
- * [Notes1](https://github.com/sliao7/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes1.pdf)
- - Supervised learning
+ * [Supervised Learning](https://github.com/sliao7/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes1.pdf)
  - Linear Regression
  - LMS algorithm
  - The normal equation 
@@ -11,9 +10,10 @@ The offical notes of Andrew Ng Machine Learning in Stanford University
  - The perceptron learning algorith
  - Generalized Linear Models 
  - softmax regression
- * [Notes2](https://github.com/sliao7/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes2.pdf)
- - Generative Learning algorithms
+ * [Generative Learning algorithms](https://github.com/sliao7/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes2.pdf)
  - Gaussian discriminant analysis
  - Naive Bayes 
  - Laplace smoothing 
  - Multinomial event model
+ 
+ * [Support Vector Machines](https://github.com/sliao7/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes3.pdf)
